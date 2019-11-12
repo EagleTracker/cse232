@@ -39,7 +39,7 @@ int main(){
   vector<string> similar2;
   vector<char> pass_char(password.begin(), password.end());
   string fstring;
-
+//hey nice code mannnnnnnnn
   int min = 10;
 	while (true){
 	   if (myfile >> fstring){
